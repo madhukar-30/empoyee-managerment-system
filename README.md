@@ -55,8 +55,7 @@ This project was developed as part of an internship task to demonstrate backend 
 4. Run the Spring Boot application
 5. Open browser and navigate to `http://localhost:8080`
 
-> **Note:** Database setup is required only if you want to run the project locally.  
-> For code review and evaluation, GitHub source code is sufficient.
+
 
 ---
 
