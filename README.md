@@ -48,7 +48,7 @@ This project was developed as part of an internship task to demonstrate backend 
 
 ---
 
-## ⚙️ How to Run the Project (Optional)
+## ⚙️ How to Run the Project 
 1. Clone the repository
 2. Configure MySQL database credentials in `application.properties`
 3. Create a database named `ems_db`
