@@ -25,7 +25,7 @@ This project was developed as part of an internship task to demonstrate backend 
 
 ---
 
-## 📂 Project Structure
+
 ## 📂 Project Structure
 
 - **EMPLOYEE-MANAGEMENT-SYSTEM**
