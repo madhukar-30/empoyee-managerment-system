@@ -26,24 +26,7 @@ This project was developed as part of an internship task to demonstrate backend 
 ---
 
 ## 📂 Project Structure
-EMPLOYEE-MANAGEMENT-SYSTEM
-│
-├── src
-│ ├── Employee.java
-│ ├── EmployeeController.java
-│ ├── EmployeeRepository.java
-│ ├── EmployeeService.java
-│ └── EmsApplication.java
-│
-├── resources
-│ ├── templates
-│ │ ├── index.html
-│ │ ├── add.html
-│ │ └── edit.html
-│ └── application.properties
-│
-├── pom.xml
-└── README.md 
+EMPLOYEE-MANAGEMENT-SYSTEM │ ├── src │ ├── Employee.java │ ├── EmployeeController.java │ ├── EmployeeRepository.java │ ├── EmployeeService.java │ └── EmsApplication.java │ ├── resources │ ├── templates │ │ ├── index.html │ │ ├── add.html │ │ └── edit.html │ └── application.properties │ ├── pom.xml └── README.md 
 
 
 ---
